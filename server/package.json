@@ -38,6 +38,6 @@
     "properties": "^1.2.1",
     "rimraf": "^3.0.1",
     "sequelize": "^5.21.3",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
